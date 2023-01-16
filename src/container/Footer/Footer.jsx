@@ -13,9 +13,9 @@ const Footer = () => (
     <div className="app__footer-links">
       <div className="app__footer-links_contact">
         <h1 className="app__footer-headtext">Contact Us</h1>
-        <p className="p__opensans">9 W 53rd St, New York, NY 10019, USA</p>
-        <p className="p__opensans">+1 212-344-1230</p>
-        <p className="p__opensans">+1 212-555-1230</p>
+        <p className="p__opensans">4, Kofo Abayomi Ave, Victoria Island, Lagos, Nigeria</p>
+        <p className="p__opensans">+234 8026 228 765</p>
+        <p className="p__opensans">+234 9045 628 224</p>
       </div>
 
       <div className="app__footer-links_logo">
