@@ -13,7 +13,7 @@ const Footer = () => (
     <div className="app__footer-links">
       <div className="app__footer-links_contact">
         <h1 className="app__footer-headtext">Contact Us</h1>
-        <p className="p__opensans">4, Kofo Abayomi Ave, Victoria Island, Lagos, Nigeria</p>
+        <p className="p__opensans">4, Kofo Abayomi Ave, Victoria Island, Lagos</p>
         <p className="p__opensans">+234 8026 228 765</p>
         <p className="p__opensans">+234 9045 628 224</p>
       </div>
@@ -39,7 +39,7 @@ const Footer = () => (
     </div>
 
     <div className="footer__copyright">
-      <p className="p__opensans">2021 Gericht. All Rights reserved.</p>
+      <p className="p__opensans">2022 Gericht. All Rights reserved.</p>
     </div>
 
   </div>
